@@ -32,7 +32,7 @@ export const PAGE_BREAD_CRUMBS: string[] = [
       cta: 'Get Started',
     },
     {
-      name: 'Smart AI Plan',
+      name: 'Adpative AI Plan',
       description: 'Advanced features for power users',
       price: '$99',
       features: [

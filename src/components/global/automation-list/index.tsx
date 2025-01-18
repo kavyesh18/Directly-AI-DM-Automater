@@ -10,6 +10,7 @@ type Props = {}
 
 const AutomationList = (props: Props) => {
 
+    const data = useQueryAutomations()
     //WIP: get the automation list data 
     const { pathname} = usePaths()
 
